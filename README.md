@@ -5,8 +5,7 @@
   
   
   
-Installation : * `apt update` * `apt install git curl -y` * `git clone git://github.com/CYBER-3G/IP-TRACKER.git` * `cd IP-TRACKER `
+Installation :  `apt update`  `apt install git curl -y`  `git clone git://github.com/CYBER-3G/IP-TRACKER.git`  `cd IP-TRACKER `
   
   Run : `bash iptracker.sh ` 
   
- ## Single Command : ``` apt update ; apt install git curl -y ; git clone git://github.com/CYBER-3G/IP-TRACKER.git ; cd IP-TRACKER ; bash iptracker.sh
